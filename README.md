@@ -1,2 +1,4 @@
-# Estudios_In_Silico
- 
+# Tarea final de la asignatura "Estudios in silico en biomedicina"
+
+Primero se ejecutó en masterbio la pipeline contenida en 'historial_comandos_masterbio.sh'. Una vez obtenidos los ficheros tipo BAM y sus ficheros derivados, los descargo y muevo hasta mi propio computador para continuar con el análisis. La primera parte del análisis la realicé en masterbio por tener mayores recursos computacionales (más memoria RAM, mayor número de cores, etc.), facilitando así la descarga y el procesamiento de las muestras. Sin embargo, la segunda parte del análisis queda descrita en 'historial_comandos_wsl.sh', realizada en mi propio computador dado que es dónde pude instalarme los paquetes necesarios para reproducir el artículo original (permisos de instalación con los que no cuento en masterbio), como GATK o ANNOVAR.
+
